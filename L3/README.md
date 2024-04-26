@@ -1,4 +1,4 @@
-Тесты:
+Скриншоты выполненных тестов:
 1. RideCleansingExercise <br />
 ![alt text](image.png)
 2. RidesAndFaresExercise <br />
