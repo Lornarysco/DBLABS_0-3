@@ -1,9 +1,9 @@
 Скриншоты выполненных тестов:
 1. RideCleansingExercise <br />
-![alt text](image.png)
+![alt text](img1.png)
 2. RidesAndFaresExercise <br />
-![alt text](image-1.png)
+![alt text](img2.png)
 3. HourlyTipsExerxise <br />
-![alt text](image-2.png)
+![alt text](img-3.png)
 4. ExpiringStateExercise <br />
-![alt text](image-3.png)
+![alt text](img-4.png)
